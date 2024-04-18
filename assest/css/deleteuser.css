@@ -1,0 +1,59 @@
+.add-user{
+    color: #47C607;
+    font-size: 20px;
+    font-family: 'Cinzel', serif;
+      
+    text-decoration: none;
+    }
+    .add-user:hover{
+        color: #b5b5b4;
+        
+    }
+    
+    .control-manger{
+        background-color: black;
+    }
+    .control-manger i{
+        font-size: 30px;
+        color:#194105;
+    }
+    .add-userdiv:hover{
+    background-color: black;
+    }
+    form input{
+        height: 40px;
+        border: 1px solid #E2E0DC ;
+        
+        padding-left: 10px;
+        box-shadow:    2px 2px 5px 0px #8888;
+        font-family: 'Cookie', cursive;
+        font-size: 23px;
+    }
+    ::placeholder{
+        font-size: 23px;
+        font-family: 'Cookie', cursive;
+        color:#B3B1AD;
+      
+      }
+      thead{
+        background-color: black;
+      }
+      thead td{
+        font-family:'Josefin Sans', sans-serif;
+    
+        color:#E2E0DC;
+    
+      }
+      tbody tr{
+        border: 1px solid #47C607;
+      }
+      tbody{
+        font-family:'Josefin Sans', sans-serif;
+        font-weight: 500;
+      }
+      button {
+        border: none;
+      }
+      button i{
+        color:#47C607;
+      }

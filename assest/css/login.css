@@ -1,0 +1,73 @@
+body{
+    background-image: url('../imge/pexels-photo-62693.webp');
+    
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.main-box{
+    width: 500px;
+    height: 450px;
+    background-color: white;
+
+    border-radius: 10px;
+    margin-top:150px;
+  
+    
+}
+
+.button-facebook{
+    height: 50px;
+    background-color: #4148B8;
+    border-radius: 10px;
+    box-shadow: 3px 3px 7px 0px #888888;
+}
+.button-facebook i{
+color:white;
+font-size: 30px;
+}
+.button-facebook:hover{
+    background-color: #999EED;
+}
+.button-google{
+    height: 50px;
+    border:1px solid #8888;
+    border-radius: 10px;
+    box-shadow: 3px 3px 7px 0px #888888;
+}
+.button-google:hover{
+    background-color: #d8d8e2;
+    border: none;
+}
+.button-google i{
+    color:white;
+font-size: 30px;
+}
+input{
+
+    width:88%;
+    height: 50px;
+    border: 1px solid #E2E0DC ;
+    border-radius: 10px;
+
+}
+::placeholder{
+    font-size: 15px;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Righteous', cursive;
+    color:#B3B1AD;
+  }
+  .btn-login{
+      width:88%;
+      height: 50px;
+      border: 1px solid #E2E0DC ;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  }
+.h3-welcome{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-size: 18px;
+    color: #0a0a0a;
+}
